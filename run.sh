@@ -29,5 +29,5 @@ python -m experiment.mlp \
     --language spanish \
     --validation-data ./data/meli-challenge-2019/spanish.validation.jsonl.gz \
     --embeddings-size 300 \
-    --hidden-layers 256 128 \
+    --hidden-layers 384 256 \
     --dropout 0.3
