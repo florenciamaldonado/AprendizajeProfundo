@@ -1,0 +1,15 @@
+artifact_uri: file:///users/gtorres/practico/AprendizajeProfundo/mlruns/1/64f1201987904391828a5eb360918881/artifacts
+end_time: 1616252983429
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 64f1201987904391828a5eb360918881
+run_uuid: 64f1201987904391828a5eb360918881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1616251789092
+status: 3
+tags: []
+user_id: gtorres
